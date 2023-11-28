@@ -1,5 +1,6 @@
 # Currency API
-Simple API which returns the vaule of a given currency on a given date.
+Simple API which returns the currency value for the specified date.
+
 
 ## Local setup
 ```bash

@@ -16,7 +16,6 @@ class ZipDownloader:
 
     Methods:
         get_file(): Downloads the file from the specified URL and returns its content as a BytesIO object.
-
     """
 
     def __init__(self, url: str):

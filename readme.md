@@ -1,4 +1,4 @@
-# Currency api
+# Currency API
 Simple API which returns the vaule of a given currency on a given date.
 
 ## Local setup

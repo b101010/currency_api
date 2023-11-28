@@ -1,5 +1,5 @@
 # Currency API
-Simple API which returns the currency value for the specified date.
+Simple API which returns the specified currency value for the specified date.
 
 
 ## Local setup
